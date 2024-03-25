@@ -2,7 +2,8 @@
 
 ## About Datasets
 
-Three Folders :
-1- Training         --> Female , Male
-2- Testing          --> Female , Male
-3- Validation       --> Female , Male
+#### Three Folders :
+
+* Training         --> Female , Male
+* Testing          --> Female , Male
+* Validation       --> Female , Male
