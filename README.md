@@ -4,6 +4,6 @@
 
 #### Three Folders :
 
-* Training         --> Female , Male
-* Testing          --> Female , Male
-* Validation       --> Female , Male
+* Training           --> Female , Male
+* Testing            --> Female , Male
+* Validation         --> Female , Male
